@@ -3,6 +3,7 @@ import static java.lang.Math.random;
 import static java.lang.System.*;
 import static java.text.MessageFormat.format;
 
+@SuppressWarnings("ALL")
 public class seedPhrasePwdGenerator {
 	public static void main(String[] args) {
 		
